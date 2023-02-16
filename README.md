@@ -124,10 +124,10 @@ Besides above-mentioned method, below are the methods that FRP exposes.
 _flutterRadioPlayer.stop()
 ```
 
-* ```start()``` - Will start the audio stream using the initialized object.
+* ```play()``` - Will play the audio stream using the initialized object.
 
 ```dart
-_flutterRadioPlayer.start()
+_flutterRadioPlayer.play()
 ```
 
 * ```pause()``` - Will pause the audio stream using the initialized object.
